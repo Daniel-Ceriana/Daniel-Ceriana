@@ -11,7 +11,7 @@ Desarrollo aplicaciones web y mobile con **Angular, Ionic y TypeScript** sobre *
 | Proyecto | Qué es | Stack |
 | --- | --- | --- |
 | **App para restaurantes** | App Android con pedidos por QR, flujo entre mozo, cocina y bar, chat y notificaciones push. Lidero un equipo de 4. | Angular · Ionic · Supabase |
-| **Venta de entradas para cine** | Butacas en tiempo real, entradas con QR, asignación automática de salas y panel de administración con reportes. | Angular · Supabase · PWA |
+| [**Venta de entradas para cine**](https://github.com/Daniel-Ceriana/Cine) | Butacas en tiempo real, entradas con QR, asignación automática de salas y panel de administración con reportes. | Angular · Supabase · PWA |
 | [**Gluttony**](https://github.com/Daniel-Ceriana/Gluttony-backend) | Backend completo de un e-commerce, en producción. | Node.js · Express · MongoDB |
 
 > Los dos primeros son proyectos académicos en curso: el código es privado hasta aprobar la materia, pero puedo mostrarlo a pedido.
